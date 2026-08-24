@@ -1,0 +1,6 @@
+{
+  "name": "CINEMETA",
+  "description": "Cold-Start Movie Recommendation System Using Meta-Learning With Web Interface",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
